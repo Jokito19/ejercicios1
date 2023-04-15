@@ -43,7 +43,10 @@ public class Calcul {
         op2.crearOperacion();
         op2.restar();
         
-        
+        System.out.println("Segundo digito");
+        Operacion op3 = new Operacion ();
+        op3.crearOperacion();
+        op3.restar();
         
         
     }
